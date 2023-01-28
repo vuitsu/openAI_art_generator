@@ -13,7 +13,7 @@ Then, you need to copy paste your API key in the `.env` file. Replace `YOUR_API_
 Clone the project
 
 ```bash
-  git clone https://github.com/alias-yk/openAI_art_generator
+  git clone https://github.com/vuitsu/openAI_art_generator
 ```
 
 Install dependencies
