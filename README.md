@@ -3,7 +3,7 @@ Personal project that uses the OpenAI API to generate images.
 
 ## Important
 
-Before running the project, you must get **YOUR** OpenAI API key at (this page)[https://beta.openai.com/account/api-keys]
+Before running the project, you must get **YOUR** OpenAI API key at [this page](https://beta.openai.com/account/api-keys)
 
 ## Run Locally
 
