@@ -24,3 +24,5 @@ Start the server
 ```bash
   node index
 ```
+
+Then, go to you web browser and type in the search bar : localhost:5000
