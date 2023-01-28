@@ -4,6 +4,8 @@ Personal project that uses the OpenAI API to generate images.
 ## Important
 
 Before running the project, you must get **YOUR** OpenAI API key at [this page](https://beta.openai.com/account/api-keys)
+Then, you need to copy paste your API key in the `.env` file.
+[image](https://user-images.githubusercontent.com/96443442/215264878-73de5cc3-f3d2-4b27-865d-a9ae12863ff8.png)
 
 ## Run Locally
 
