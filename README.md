@@ -25,4 +25,4 @@ Start the server
   node index
 ```
 
-Then, go to you web browser and type in the search bar : localhost:5000
+Then, go to you web browser and type in the search bar : [localhost:5000](http://localhost:5000)
