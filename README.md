@@ -13,12 +13,6 @@ Clone the project
   git clone https://github.com/alias-yk/openAI_art_generator
 ```
 
-Go to the project directory
-
-```bash
-  cd aIMG
-```
-
 Install dependencies
 
 ```bash
